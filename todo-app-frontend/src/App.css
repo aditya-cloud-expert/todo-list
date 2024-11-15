@@ -1,9 +1,5 @@
 .App {
   text-align: center;
-  font-family: Arial, sans-serif;
-  max-width: 600px;
-  margin: auto;
-  padding: 20px;
 }
 
 .App-logo {
@@ -39,9 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-
-button {
-  margin-left: 5px;
 }
